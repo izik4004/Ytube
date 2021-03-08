@@ -7,6 +7,7 @@ module.exports = {
       colors: {
         my: '#181818',
         urs: '#202020',
+        head: '#F52200',
         
       },
     },
